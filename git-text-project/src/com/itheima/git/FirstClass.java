@@ -8,7 +8,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
-        //你好陈坤
+        //你好陈坤吞吞吐吐
     }
     public void test(){
         int i=0;
